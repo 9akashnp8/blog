@@ -6,4 +6,8 @@ draft: false
 
 # This is my first post
 
-Need to get this live on github pages
+Welcome to my blog!
+
+This is an introductory post through which I will share my goals with this blog and what articles one can expect. 
+
+*work in progress...*

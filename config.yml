@@ -1,4 +1,15 @@
 baseURL: "http://9akashnp8.github.io/blog/"
 languageCode: en-us
-title: My New Hugo Site
+title: "9akashnp8's Blog"
 theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
